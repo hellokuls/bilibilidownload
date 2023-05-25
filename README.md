@@ -12,7 +12,15 @@
 
 ![](https://github.com/hellokuls/bilibilidownload/blob/master/static/images/3.png?raw=true)
 
-## 使用方式
+
+## 技术栈
+
+- Python3
+- Django
+- layui
+- 前后端不分离
+
+## 本地部署
 
 ```bash
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirement.txt
@@ -23,15 +31,8 @@ python manage.py runserver 7000
 
 ```
 
-## 技术栈
 
-- Python3
-- Django
-- layui
-- 前后端不分离
-
-
-## docker 运行
+## docker 部署
 
 ```bash
 # 拉取

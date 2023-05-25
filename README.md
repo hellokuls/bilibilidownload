@@ -18,7 +18,7 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirement.txt
 ```
 
 ```bash
-python manage.py runserver
+python manage.py runserver 7000
 
 ```
 

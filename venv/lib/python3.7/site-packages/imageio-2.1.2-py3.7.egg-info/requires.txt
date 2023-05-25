@@ -1,0 +1,16 @@
+numpy
+pillow
+
+[fits]
+astropy
+
+[full]
+astropy
+gdal
+SimpleITK
+
+[gdal]
+gdal
+
+[simpleitk]
+SimpleITK
